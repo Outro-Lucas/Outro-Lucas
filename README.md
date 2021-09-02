@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+
+
+I am Lucas Ferreira, I am 21 years old and I am in my sixth semester in Computer Science. I am interested in front-end web development, fascinated by learning and always seeking to achieve a high level of knowledge.
+
+### My social networks:
+![Gmail](https://img.shields.io/badge/lucasferreirapacoti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luc4s-ferreira/)](https://www.linkedin.com/in/luc4s-ferreira/)[
+![Instagram](https://img.shields.io/badge/@outro.lucas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/outro.lucas/?hl=pt-br)](https://www.instagram.com/outro.lucas/?hl=pt-br)
+![GitHub Stats]([https://github-readme-stats.vercel.ap...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazdNWXhValNzSnRMb3N6RHh5anI1cEZySWNud3xBQ3Jtc0tsVTNxbWJCaHlFQkhWR3dad1J1NjNmTzBGSWx0TUE1WV9HVHJVdTdNY1JIVmNhM1YxMThKV3pZdzBqRm56TS1Mc2NKNHc3d2h4Wkl3TlNMUWRXZXZTMHc3Y0d0M3RRdzFXYWFlbUVlYkNUUHB6TEdINA&q=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3D) &theme=radical)
