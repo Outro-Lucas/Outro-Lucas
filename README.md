@@ -24,4 +24,4 @@ I am Lucas Ferreira, I am 21 years old and I am in my sixth semester in Computer
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luc4s-ferreira/)](https://www.linkedin.com/in/luc4s-ferreira/)[
 ![Instagram](https://img.shields.io/badge/@outro.lucas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/outro.lucas/?hl=pt-br)](https://www.instagram.com/outro.lucas/?hl=pt-br)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Outro-Lucas &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Outro-Lucas&theme=radical)
