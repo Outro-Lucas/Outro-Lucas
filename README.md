@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **Outro-Lucas/Outro-Lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
+### Sobre mim
 
 
-I am Lucas Ferreira, I am 21 years old and I am in my sixth semester in Computer Science. I am interested in front-end web development, fascinated by learning and always seeking to achieve a high level of knowledge.
+Sou graduado em Ciência da Computação pela Universidade Federal do Ceará, com especialização em Desenvolvimento Web Full Stack e foco em soluções Front-End. Possuo experiência prática na construção de aplicações escaláveis utilizando Angular, React e Node.js. Movido pelo aprendizado contínuo, busco sempre resolver problemas complexos e entregar software com alto nível de excelência técnica.
 
-### My social networks:
+### Redes sociais:
 ![Gmail](https://img.shields.io/badge/lucasferreirapacoti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luc4s-ferreira/)](https://www.linkedin.com/in/luc4s-ferreira/)[
 ![Instagram](https://img.shields.io/badge/@outro.lucas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/outro.lucas/?hl=pt-br)](https://www.instagram.com/outro.lucas/?hl=pt-br)
