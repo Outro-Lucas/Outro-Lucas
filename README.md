@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Sobre mim
 
 
-Sou graduado em Ciência da Computação pela Universidade Federal do Ceará, com especialização em Desenvolvimento Web Full Stack e foco em soluções Front-End. Possuo experiência prática na construção de aplicações escaláveis utilizando Angular, React e Node.js. Movido pelo aprendizado contínuo, busco sempre resolver problemas complexos e entregar software com alto nível de excelência técnica.
+Sou graduado em Ciência da Computação pela Universidade Federal do Ceará, com especialização em Desenvolvimento Web Full Stack e foco em soluções Back-End. Possuo experiência prática na construção de aplicações escaláveis utilizando Angular, React, NestJS e Node.js. Movido pelo aprendizado contínuo, busco sempre resolver problemas complexos e entregar software com alto nível de excelência técnica.
 
 ### Redes sociais:
 ![Gmail](https://img.shields.io/badge/lucasferreirapacoti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -29,8 +29,8 @@ Sou graduado em Ciência da Computação pela Universidade Federal do Ceará, co
 
 <!-- Card de Estatísticas Gerais -->
 <!--![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Outro-Lucas&theme=radical) -->
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Outro-Lucas&theme=radical&PAT_1)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Outro-Lucas&theme=radical)
 
 <!-- Card de Principais Linguagens -->
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Outro-Lucas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Outro-Lucas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
