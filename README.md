@@ -28,7 +28,8 @@ Sou graduado em Ciência da Computação pela Universidade Federal do Ceará, co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Outro-Lucas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Card de Estatísticas Gerais -->
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Outro-Lucas&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Outro-Lucas&theme=radical) -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Outro-Lucas&theme=radical&PAT_1)
 
 <!-- Card de Principais Linguagens -->
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Outro-Lucas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
